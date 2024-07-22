@@ -43,7 +43,7 @@ This folder contains tasks related to file input and output operations. Exercise
 
 ## Object-Oriented Programming (OOP)
 
-In the OOP folder, you'll find exercises that deal with the principles of object-oriented programming. Tasks include creating classes & objects, defining methods.
+In the OOP folder, you'll find exercises that deal with the principles of object-oriented programming. Tasks include creating classes & objects, defining methods. Inheritence, Abstraction, Polymorphism and Encapsulation.
 
 ## Contributing
 
